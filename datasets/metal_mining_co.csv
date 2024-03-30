@@ -1,0 +1,8 @@
+company_id,shortName,longName,industry,industryKey,sector,sectorKey,marketCap,currentPrice,targetHighPrice,targetLowPrice,targetMedianPrice,totalCash,currency,recommendationMean,recommendationKey,boardRisk,auditRisk,previousClose,open,dayLow,dayHigh,regularMarketPreviousClose,regularMarketOpen,regularMarketDayLow,regularMarketDayHigh
+AURA33.SA,AURA 360    DR3,Aura Minerals Inc.,Gold,gold,Basic Materials,basic-materials,2736728064.0,37.29,49.96,46.97,48.46,237295008.0,BRL,2.3,buy,9.0,9.0,36.08,36.1,36.0,37.29,36.08,36.1,36.0,37.29
+BRAP4.SA,BRADESPAR   PN      N1,Bradespar S.A.,Asset Management,asset-management,Financial Services,financial-services,8015893504.0,20.59,29.0,26.4,28.25,503064000.0,BRL,2.0,buy,,,20.41,20.5,20.33,20.65,20.41,20.5,20.33,20.65
+CBAV3.SA,CBA         ON      NM,Companhia Brasileira de Alumínio,Aluminum,aluminum,Basic Materials,basic-materials,2656377856.0,4.08,18.0,4.7,5.99,1655154048.0,BRL,2.4,buy,,,4.15,4.17,4.08,4.17,4.15,4.17,4.08,4.17
+CMIN3.SA,CSNMINERACAOON      N2,CSN Mineração S.A.,Steel,steel,Basic Materials,basic-materials,29072304128.0,5.3,8.0,4.3,6.5,9808329728.0,BRL,3.1,hold,,,5.31,5.31,5.21,5.42,5.31,5.31,5.21,5.42
+LTEL3B.SA,,,,,,,,,,,,,,,,,,,,,,,,,
+LTLA3B.SA,,,,,,,,,,,,,,,,,,,,,,,,,
+VALE3.SA,VALE        ON      NM,Vale S.A.,Other Industrial Metals & Mining,other-industrial-metals-mining,Basic Materials,basic-materials,260365778944.0,60.83,112.15,74.64,91.6,17724000256.0,BRL,2.2,buy,2.0,5.0,60.6,60.62,60.07,61.09,60.6,60.62,60.07,61.09
